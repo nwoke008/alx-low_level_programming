@@ -1,0 +1,1 @@
+script that run c

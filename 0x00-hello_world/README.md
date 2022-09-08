@@ -1,1 +1,1 @@
-generate assembly code
+create executable name cisfun

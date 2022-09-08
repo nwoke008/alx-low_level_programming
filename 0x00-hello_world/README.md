@@ -1,1 +1,1 @@
-size grand
+intel

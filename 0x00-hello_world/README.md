@@ -1,1 +1,1 @@
-script that run c
+script that compilec

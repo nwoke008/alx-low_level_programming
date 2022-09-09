@@ -1,1 +1,1 @@
-possible combinations of single-digit numbers
+all possible different combinations of two digits

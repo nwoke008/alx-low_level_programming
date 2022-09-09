@@ -1,1 +1,1 @@
-all the numbers of base 16 in lowercase
+possible combinations of single-digit numbers

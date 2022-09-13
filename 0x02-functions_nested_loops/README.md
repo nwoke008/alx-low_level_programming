@@ -1,1 +1,1 @@
-lower case 
+checks for alphabetic character

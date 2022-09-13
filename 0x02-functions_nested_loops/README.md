@@ -1,1 +1,1 @@
- time table starting with 0
+natural made numbers

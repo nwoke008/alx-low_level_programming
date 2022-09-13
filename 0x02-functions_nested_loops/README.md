@@ -1,1 +1,1 @@
-absolute number of an interger
+print last digit

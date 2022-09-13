@@ -1,1 +1,1 @@
-natural numbers from n to 98, followed by a new line
+ time table starting with 0

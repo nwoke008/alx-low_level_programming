@@ -1,1 +1,1 @@
-10 times the alphabet, in lowercase, followed by a new line
+10 x alphabet

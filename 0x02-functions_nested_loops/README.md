@@ -1,1 +1,1 @@
-mainc
+putchar

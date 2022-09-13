@@ -1,1 +1,1 @@
-checks for alphabetic character
+print sign number

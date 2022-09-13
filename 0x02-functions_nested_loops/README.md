@@ -1,1 +1,1 @@
-print sign number
+absolute number of an interger

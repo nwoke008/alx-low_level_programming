@@ -1,1 +1,1 @@
- first 50 fibonacci
+ adding the previous two terms

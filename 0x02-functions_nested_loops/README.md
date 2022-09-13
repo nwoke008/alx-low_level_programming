@@ -1,1 +1,1 @@
-natural made numbers
+ first 50 fibonacci

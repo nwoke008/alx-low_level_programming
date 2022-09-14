@@ -1,1 +1,1 @@
-infinite loop
+infinite loops

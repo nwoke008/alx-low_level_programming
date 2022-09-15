@@ -1,1 +1,1 @@
-prime factor
+prime numbers

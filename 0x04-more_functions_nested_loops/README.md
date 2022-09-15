@@ -1,1 +1,1 @@
-print interger
+print intergers

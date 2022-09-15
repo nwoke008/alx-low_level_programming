@@ -1,1 +1,1 @@
-print interger
+prime number

@@ -1,1 +1,1 @@
- triangle
+prime factor

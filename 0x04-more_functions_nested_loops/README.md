@@ -1,1 +1,1 @@
-puchar
+checks for uppercase character

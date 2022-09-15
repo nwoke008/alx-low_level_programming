@@ -1,1 +1,1 @@
-print number 0-9
+ number 0-9

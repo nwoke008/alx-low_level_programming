@@ -1,1 +1,1 @@
-upper character
+function that checks for a digit

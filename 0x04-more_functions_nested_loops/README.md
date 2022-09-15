@@ -1,1 +1,1 @@
-prime numbers
+prime number

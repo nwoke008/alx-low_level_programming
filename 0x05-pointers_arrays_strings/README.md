@@ -1,1 +1,1 @@
-crack key
+reverse string

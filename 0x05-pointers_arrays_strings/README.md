@@ -1,1 +1,1 @@
-main.h
+pointer into int

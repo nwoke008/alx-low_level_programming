@@ -1,1 +1,1 @@
-length of a string
+print newline

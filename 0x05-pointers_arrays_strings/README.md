@@ -1,1 +1,1 @@
-print n times
+copy string

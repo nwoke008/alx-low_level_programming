@@ -1,1 +1,1 @@
-the lenght of a string
+length of a string

@@ -1,1 +1,1 @@
-convert string to int
+crack key

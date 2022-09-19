@@ -1,1 +1,1 @@
-print half of a string
+print n times

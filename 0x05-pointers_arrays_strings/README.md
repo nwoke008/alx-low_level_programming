@@ -1,1 +1,1 @@
-copy string
+convert string to int

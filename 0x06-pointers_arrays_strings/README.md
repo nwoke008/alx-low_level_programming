@@ -1,1 +1,1 @@
-concantenacte 2 strigs
+function that copy string

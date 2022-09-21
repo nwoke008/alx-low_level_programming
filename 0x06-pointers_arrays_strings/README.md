@@ -1,1 +1,1 @@
-capitalize word in string
+encode into 1337

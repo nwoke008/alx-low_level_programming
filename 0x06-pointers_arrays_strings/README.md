@@ -1,1 +1,1 @@
-encode into 1337
+encode to rot13

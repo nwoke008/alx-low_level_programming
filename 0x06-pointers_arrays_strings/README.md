@@ -1,1 +1,1 @@
-encode to rot13
+print integer

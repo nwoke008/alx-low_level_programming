@@ -1,1 +1,1 @@
-function that copy string
+compare strings

@@ -1,1 +1,1 @@
-change lower case to upper
+capitalize word in string

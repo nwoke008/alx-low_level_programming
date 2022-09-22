@@ -1,1 +1,1 @@
-add infinite number
+print buffer

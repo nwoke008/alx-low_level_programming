@@ -1,1 +1,1 @@
-print integer
+magic 102

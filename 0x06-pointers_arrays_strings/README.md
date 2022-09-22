@@ -1,1 +1,1 @@
-magic 
+cap string

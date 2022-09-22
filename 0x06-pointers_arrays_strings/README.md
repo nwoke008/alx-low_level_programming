@@ -1,1 +1,1 @@
-magic 102
+add infinite number

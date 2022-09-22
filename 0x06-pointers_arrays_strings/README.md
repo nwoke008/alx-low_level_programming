@@ -1,1 +1,1 @@
-print buffer
+magic 

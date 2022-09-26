@@ -1,1 +1,1 @@
- locate a substring
+print chessboard

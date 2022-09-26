@@ -1,1 +1,1 @@
-set of bytes
+ locate a substring

@@ -1,1 +1,1 @@
-crackme2 password
+set pointer to char

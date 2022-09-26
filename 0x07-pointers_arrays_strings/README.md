@@ -1,1 +1,1 @@
-memset
+copy memory area

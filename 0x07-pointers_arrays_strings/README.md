@@ -1,1 +1,1 @@
-string length
+set of bytes

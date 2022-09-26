@@ -1,1 +1,1 @@
-locate char in a string
+string length

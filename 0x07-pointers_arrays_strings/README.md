@@ -1,1 +1,1 @@
-set pointer to char
+crackme2

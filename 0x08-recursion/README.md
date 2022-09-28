@@ -1,1 +1,1 @@
-palindrome
+compare two strings

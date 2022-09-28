@@ -1,1 +1,1 @@
-prime num
+palindrome

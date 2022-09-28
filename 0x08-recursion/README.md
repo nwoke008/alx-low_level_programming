@@ -1,1 +1,1 @@
-square root of a num
+prime num

@@ -1,1 +1,1 @@
-print string in reverse
+length of a string

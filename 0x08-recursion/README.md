@@ -1,1 +1,1 @@
-raise to power
+square root of a num

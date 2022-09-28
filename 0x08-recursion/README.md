@@ -1,1 +1,1 @@
-factorial of num
+raise to power

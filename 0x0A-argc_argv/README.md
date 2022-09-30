@@ -1,1 +1,1 @@
-point argument
+print all arguments

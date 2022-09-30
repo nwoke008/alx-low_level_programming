@@ -1,1 +1,1 @@
-print all arguments
+multiple of two num

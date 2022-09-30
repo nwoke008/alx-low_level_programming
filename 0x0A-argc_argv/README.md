@@ -1,1 +1,1 @@
-amount of coin
+first name

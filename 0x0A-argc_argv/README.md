@@ -1,1 +1,1 @@
-multiple of two num
+print sum arg postive num

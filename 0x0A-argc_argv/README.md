@@ -1,1 +1,1 @@
-print sum arg postive num
+amount of coin

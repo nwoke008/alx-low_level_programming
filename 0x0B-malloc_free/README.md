@@ -1,1 +1,1 @@
- contatenate all agr
+ strtow

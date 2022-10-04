@@ -1,1 +1,1 @@
-2 dimentional array pre
+ contatenate all agr

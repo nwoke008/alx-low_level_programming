@@ -1,1 +1,1 @@
-string parameter
+ String allocate

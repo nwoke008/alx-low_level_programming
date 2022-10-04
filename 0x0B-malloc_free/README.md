@@ -1,1 +1,1 @@
- String allocate
+string concat

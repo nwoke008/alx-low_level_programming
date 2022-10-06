@@ -1,1 +1,1 @@
-array of integers
+reallocate memory

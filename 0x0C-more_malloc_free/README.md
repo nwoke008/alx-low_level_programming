@@ -1,1 +1,1 @@
- allocate memory for array
+array of integers

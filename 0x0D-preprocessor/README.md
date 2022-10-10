@@ -1,1 +1,1 @@
-main.h
+object like macro

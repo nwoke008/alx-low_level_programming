@@ -1,1 +1,1 @@
-init-dog
+print dog

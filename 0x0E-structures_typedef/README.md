@@ -1,1 +1,1 @@
-print dog
+new dog

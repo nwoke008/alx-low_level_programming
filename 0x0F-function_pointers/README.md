@@ -1,1 +1,1 @@
-print name
+array iterator

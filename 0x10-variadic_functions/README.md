@@ -1,1 +1,1 @@
-variadic functions
+sum them

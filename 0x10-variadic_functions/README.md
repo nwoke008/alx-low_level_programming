@@ -1,1 +1,1 @@
-sum them
+print numbers

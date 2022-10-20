@@ -1,1 +1,1 @@
-list.h
+print list

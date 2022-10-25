@@ -1,1 +1,1 @@
-reverse list
+printlistintsafe

@@ -1,1 +1,1 @@
-10-delete_nodeint.c
+reverse list

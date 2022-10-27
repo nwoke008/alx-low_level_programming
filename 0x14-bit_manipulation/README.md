@@ -1,1 +1,1 @@
-Binary to unit
+print binary

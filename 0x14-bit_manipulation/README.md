@@ -1,1 +1,1 @@
-clear bit
+flip bits

@@ -1,1 +1,1 @@
-flip bits
+get endianness

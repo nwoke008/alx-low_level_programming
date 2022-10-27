@@ -1,1 +1,1 @@
-print binary
+get bit
